@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAI", "LabAI\LabAI.csproj", "{EC83F2F7-3F89-42D0-B768-1DCFEFB2424B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC83F2F7-3F89-42D0-B768-1DCFEFB2424B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC83F2F7-3F89-42D0-B768-1DCFEFB2424B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC83F2F7-3F89-42D0-B768-1DCFEFB2424B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC83F2F7-3F89-42D0-B768-1DCFEFB2424B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D30455A-4F67-4486-B984-1E36B27EF81D}
+	EndGlobalSection
+EndGlobal
